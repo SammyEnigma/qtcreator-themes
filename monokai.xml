@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Monokai">
-  <style name="Text" foreground="#f8f8f2" background="#1b1d1e"/>
+  <style name="Text" foreground="#f8f8f2" background="#272822"/>
   <style name="Link" foreground="#88cee7" italic="true"/>
   <style name="Selection" foreground="#e5e4e1" background="#303737"/>
   <style name="LineNumber" foreground="#616161"/>
   <style name="SearchResult" foreground="#000000" background="#7a8c8c"/>
   <style name="SearchScope" foreground="#000000" background="#7a8c8c"/>
   <style name="Parentheses" foreground="#000000" background="#a7bebe"/>
-  <style name="CurrentLine" background="#303737" bold="true"/>
+  <style name="CurrentLine" background="#39382E" bold="true"/>
   <style name="CurrentLineNumber" foreground="#e5e4e1"/>
   <style name="Occurrences" foreground="#000000" background="#b4b4b4"/>
   <style name="Occurrences.Unused" foreground="#ffaa7f"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#ae81ff"/>
   <style name="String" foreground="#e6db74"/>
-  <style name="Type" foreground="#f92672"/>
+  <style name="Type" foreground="#A6E22D"/>
   <style name="Local" foreground="#87cde6"/>
   <style name="Field" foreground="#abdc49"/>
   <style name="Static" foreground="#f92672"/>
@@ -25,8 +25,8 @@
   <style name="Operator" foreground="#e6e5e2"/>
   <style name="Preprocessor" foreground="#cc8c5b" bold="true"/>
   <style name="Label" foreground="#e5da74"/>
-  <style name="Comment" foreground="#808080"/>
-  <style name="Doxygen.Comment" foreground="#808080" italic="true"/>
+  <style name="Comment" foreground="#686554"/>
+  <style name="Doxygen.Comment" foreground="#686554" italic="true"/>
   <style name="Doxygen.Tag" foreground="#808080" bold="true" italic="true"/>
   <style name="VisualWhitespace" foreground="#808080"/>
   <style name="QmlLocalId" foreground="#e5e4e1" italic="true"/>
