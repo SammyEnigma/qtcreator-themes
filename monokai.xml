@@ -14,19 +14,19 @@
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#ae81ff"/>
   <style name="String" foreground="#e6db74"/>
-  <style name="Type" foreground="#A6E22D"/>
+  <style name="Type" foreground="#A6E22D" italic="true"/>
   <style name="Local" foreground="#87cde6"/>
-  <style name="Field" foreground="#abdc49"/>
+  <style name="Field" foreground="#CFFFBB"/>
   <style name="Static" foreground="#f92672"/>
   <style name="VirtualMethod" foreground="#e5e4e1" italic="true"/>
   <style name="Function" foreground="#e5e4e1"/>
-  <style name="Keyword" foreground="#f82670"/>
+  <style name="Keyword" foreground="#f82670" italic="true"/>
   <style name="PrimitiveType" foreground="#f92672"/>
   <style name="Operator" foreground="#e6e5e2"/>
   <style name="Preprocessor" foreground="#cc8c5b" bold="true"/>
   <style name="Label" foreground="#e5da74"/>
-  <style name="Comment" foreground="#686554"/>
-  <style name="Doxygen.Comment" foreground="#686554" italic="true"/>
+  <style name="Comment" foreground="#8E8B77"/>
+  <style name="Doxygen.Comment" foreground="#8E8B77" italic="true"/>
   <style name="Doxygen.Tag" foreground="#808080" bold="true" italic="true"/>
   <style name="VisualWhitespace" foreground="#808080"/>
   <style name="QmlLocalId" foreground="#e5e4e1" italic="true"/>
