@@ -29,17 +29,17 @@
   <style name="Doxygen.Comment" foreground="#8E8B77" italic="true"/>
   <style name="Doxygen.Tag" foreground="#808080" bold="true" italic="true"/>
   <style name="VisualWhitespace" foreground="#808080"/>
-  <style name="QmlLocalId" foreground="#87cde6" italic="true"/>
+  <style name="QmlLocalId" foreground="#f92672" italic="true"/>
   <style name="QmlExternalId" foreground="#CFFFBB" italic="true"/>
-  <style name="QmlTypeId" foreground="#A6E22D"/>
-  <style name="QmlRootObjectProperty" foreground="#C7E504" italic="true"/>
+  <style name="QmlTypeId" foreground="#88cee7"/>
+  <style name="QmlRootObjectProperty" foreground="#FD9720" italic="true"/>
   <style name="QmlScopeObjectProperty" foreground="#E57718" italic="true"/>
   <style name="QmlExternalObjectProperty" foreground="#2572b8" italic="true"/>
   <style name="JsScopeVar" foreground="#2985c7" italic="true"/>
-  <style name="JsImportVar" foreground="#0062CA" italic="true"/>
-  <style name="JsGlobalVar" foreground="#007CFF" italic="true"/>
+  <style name="JsImportVar" foreground="#82B3FF" italic="true"/>
+  <style name="JsGlobalVar" foreground="#70F8FF" italic="true"/>
   <style name="QmlStateName" foreground="#e5e4e1" italic="true"/>
-  <style name="Binding" foreground="#BEAEF9"/>
+  <style name="Binding" foreground="#A6E22D"/>
   <style name="DisabledCode" foreground="#808080"/>
   <style name="AddedLine" foreground="#3875d7"/>
   <style name="RemovedLine" foreground="#ff0000"/>
