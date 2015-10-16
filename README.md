@@ -10,6 +10,10 @@ Twilight
 --------
 ![Twilight][3]
 
+Material Theme
+--------
+![Material][4]
+
 Bitstream Vera Sans Mono font with size of 12 and 90% zoom was used for these screenshots.
 
 Install
@@ -25,3 +29,4 @@ For Qt Creator 3.0 and below, remove line which starts with `<style name="Primit
   [1]: http://i.imgur.com/xbQveHw.png
   [2]: http://i.imgur.com/Vjxpuer.png
   [3]: http://i.imgur.com/XT2Jlza.png
+  [4]: http://i.imgur.com/fOsmpOj.png
