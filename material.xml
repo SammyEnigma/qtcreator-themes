@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Material Theme">
+  <style name="Text" foreground="#f8f8f2" background="#263238"/>
+  <style name="Link" foreground="#f50057" background="#263238" italic="true"/>
+  <style name="Selection" foreground="#263238" background="#4fc3f7"/>
+  <style name="LineNumber" foreground="#607d8b" background="#263238"/>
+  <style name="SearchResult" foreground="#000000" background="#ff9100"/>
+  <style name="SearchScope" foreground="#ff9100" background="#263238"/>
+  <style name="Parentheses" foreground="#42a5f5" background="#263238"/>
+  <style name="ParenthesesMismatch" foreground="#000000" background="#f44336"/>
+  <style name="CurrentLine" background="#393939" bold="true"/>
+  <style name="CurrentLineNumber" foreground="#7cb342" background="#263238"/>
+  <style name="Occurrences" background="#2196f3"/>
+  <style name="Occurrences.Unused" foreground="#ffaa7f" background="#263238"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#263238"/>
+  <style name="Number" foreground="#ff5722" background="#263238"/>
+  <style name="String" foreground="#4caf50" background="#263238"/>
+  <style name="Type" foreground="#4db6ac" background="#263238" italic="true"/>
+  <style name="Local" foreground="#4dd0e1" background="#263238"/>
+  <style name="Field" foreground="#ef5350" background="#263238" italic="true"/>
+  <style name="Static" foreground="#fbc02d" background="#263238"/>
+  <style name="VirtualMethod" foreground="#e8eaf6" background="#263238" italic="true"/>
+  <style name="Function" foreground="#c5cae9" background="#263238"/>
+  <style name="Keyword" foreground="#ff4081" background="#263238" italic="true"/>
+  <style name="PrimitiveType" foreground="#b388ff" background="#263238"/>
+  <style name="Operator" foreground="#e6e5e2" background="#263238"/>
+  <style name="Preprocessor" foreground="#cc8c5b" background="#263238" bold="true"/>
+  <style name="Label" foreground="#e5da74" background="#263238"/>
+  <style name="Comment" foreground="#8e8b77" background="#263238"/>
+  <style name="Doxygen.Comment" foreground="#8e8b77" background="#263238" italic="true"/>
+  <style name="Doxygen.Tag" foreground="#808080" background="#263238" bold="true" italic="true"/>
+  <style name="VisualWhitespace" foreground="#808080" background="#263238"/>
+  <style name="QmlLocalId" foreground="#f92672" background="#263238" italic="true"/>
+  <style name="QmlExternalId" foreground="#cfffbb" background="#263238" italic="true"/>
+  <style name="QmlTypeId" foreground="#88cee7" background="#263238"/>
+  <style name="QmlRootObjectProperty" foreground="#fd9720" background="#263238" italic="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#e57718" background="#263238" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#2572b8" background="#263238" italic="true"/>
+  <style name="JsScopeVar" foreground="#2985c7" background="#263238" italic="true"/>
+  <style name="JsImportVar" foreground="#82b3ff" background="#263238" italic="true"/>
+  <style name="JsGlobalVar" foreground="#70f8ff" background="#263238" italic="true"/>
+  <style name="QmlStateName" foreground="#e5e4e1" background="#263238" italic="true"/>
+  <style name="Binding" foreground="#a6e22d" background="#263238"/>
+  <style name="DisabledCode" foreground="#808080" background="#263238"/>
+  <style name="AddedLine" foreground="#3875d7" background="#263238"/>
+  <style name="RemovedLine" foreground="#ff0000" background="#263238"/>
+  <style name="DiffFile" foreground="#a6e22e" background="#263238"/>
+  <style name="DiffLocation" foreground="#2572b8" background="#263238"/>
+  <style name="DiffFileLine" background="#263238"/>
+  <style name="DiffContextLine" background="#263238"/>
+  <style name="DiffSourceLine" background="#263238"/>
+  <style name="DiffSourceChar" background="#263238"/>
+  <style name="DiffDestLine" background="#263238"/>
+  <style name="DiffDestChar" background="#263238"/>
+  <style name="LogChangeLine" foreground="#c00000" background="#263238"/>
+</style-scheme>
