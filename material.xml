@@ -24,7 +24,7 @@
   <style name="Keyword" foreground="#ff4081" background="#263238" italic="true"/>
   <style name="PrimitiveType" foreground="#b388ff" background="#263238"/>
   <style name="Operator" foreground="#e6e5e2" background="#263238"/>
-  <style name="Preprocessor" foreground="#cc8c5b" background="#263238" bold="true"/>
+  <style name="Preprocessor" foreground="#7e57c2" background="#263238" bold="true"/>
   <style name="Label" foreground="#e5da74" background="#263238"/>
   <style name="Comment" foreground="#8e8b77" background="#263238"/>
   <style name="Doxygen.Comment" foreground="#8e8b77" background="#263238" italic="true"/>
