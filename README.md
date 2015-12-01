@@ -24,6 +24,7 @@ Install
 Place `.xml` files into `share/qtcreator/styles` or `~/.config/QtProject/qtcreator/styles/` folder.
 
 **On Windows**
+
 Place `.xml` files into `${QT_INSTALL_DIR}\Tools\QtCreator\share\qtcreator\styles` folder.
 
 Compatibility
