@@ -19,7 +19,12 @@ Bitstream Vera Sans Mono font with size of 12 and 90% zoom was used for these sc
 Install
 --------
 
+**On Linux***
+
 Place `.xml` files into `share/qtcreator/styles` or `~/.config/QtProject/qtcreator/styles/` folder.
+
+**On Windows**
+Place `.xml` files into `${QT_INSTALL_DIR}\Tools\QtCreator\share\qtcreator\styles` folder.
 
 Compatibility
 -------------
