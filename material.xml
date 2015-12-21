@@ -36,7 +36,7 @@
   <style name="QmlRootObjectProperty" foreground="#fd9720" background="#263238" italic="true"/>
   <style name="QmlScopeObjectProperty" foreground="#e57718" background="#263238" italic="true"/>
   <style name="QmlExternalObjectProperty" foreground="#2572b8" background="#263238" italic="true"/>
-  <style name="JsScopeVar" foreground="#2985c7" background="#263238" italic="true"/>
+  <style name="JsScopeVar" foreground="#ff7043" background="#263238" italic="true"/>
   <style name="JsImportVar" foreground="#82b3ff" background="#263238" italic="true"/>
   <style name="JsGlobalVar" foreground="#70f8ff" background="#263238" italic="true"/>
   <style name="QmlStateName" foreground="#e5e4e1" background="#263238" italic="true"/>
