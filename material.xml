@@ -21,26 +21,26 @@
   <style name="Static" foreground="#fbc02d" background="#263238"/>
   <style name="VirtualMethod" foreground="#e8eaf6" background="#263238" italic="true"/>
   <style name="Function" foreground="#c5cae9" background="#263238"/>
-  <style name="Keyword" foreground="#ff4081" background="#263238" italic="true"/>
+  <style name="Keyword" foreground="#ba68c8" background="#263238" italic="true"/>
   <style name="PrimitiveType" foreground="#b388ff" background="#263238"/>
   <style name="Operator" foreground="#e6e5e2" background="#263238"/>
-  <style name="Preprocessor" foreground="#EC407A" background="#263238" bold="true"/>
+  <style name="Preprocessor" foreground="#ec407a" background="#263238" bold="true"/>
   <style name="Label" foreground="#e5da74" background="#263238"/>
   <style name="Comment" foreground="#8e8b77" background="#263238"/>
   <style name="Doxygen.Comment" foreground="#8e8b77" background="#263238" italic="true"/>
   <style name="Doxygen.Tag" foreground="#808080" background="#263238" bold="true" italic="true"/>
   <style name="VisualWhitespace" foreground="#808080" background="#263238"/>
-  <style name="QmlLocalId" foreground="#f92672" background="#263238" italic="true"/>
-  <style name="QmlExternalId" foreground="#cfffbb" background="#263238" italic="true"/>
-  <style name="QmlTypeId" foreground="#88cee7" background="#263238"/>
-  <style name="QmlRootObjectProperty" foreground="#fd9720" background="#263238" italic="true"/>
-  <style name="QmlScopeObjectProperty" foreground="#e57718" background="#263238" italic="true"/>
-  <style name="QmlExternalObjectProperty" foreground="#2572b8" background="#263238" italic="true"/>
-  <style name="JsScopeVar" foreground="#ff7043" background="#263238" italic="true"/>
-  <style name="JsImportVar" foreground="#82b3ff" background="#263238" italic="true"/>
-  <style name="JsGlobalVar" foreground="#70f8ff" background="#263238" italic="true"/>
+  <style name="QmlLocalId" foreground="#b39ddb" background="#263238" italic="true"/>
+  <style name="QmlExternalId" foreground="#ffd600" background="#263238" italic="true"/>
+  <style name="QmlTypeId" foreground="#f06292" background="#263238"/>
+  <style name="QmlRootObjectProperty" foreground="#ef6c00" background="#263238" italic="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#ff8a65" background="#263238" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#26a69a" background="#263238" italic="true"/>
+  <style name="JsScopeVar" foreground="#ff8a65" background="#263238" italic="true"/>
+  <style name="JsImportVar" foreground="#7e57c2" background="#263238" italic="true"/>
+  <style name="JsGlobalVar" foreground="#f44336" background="#263238" italic="true"/>
   <style name="QmlStateName" foreground="#e5e4e1" background="#263238" italic="true"/>
-  <style name="Binding" foreground="#a6e22d" background="#263238"/>
+  <style name="Binding" foreground="#ffb74d" background="#263238"/>
   <style name="DisabledCode" foreground="#808080" background="#263238"/>
   <style name="AddedLine" foreground="#3875d7" background="#263238"/>
   <style name="RemovedLine" foreground="#ff0000" background="#263238"/>
@@ -53,4 +53,8 @@
   <style name="DiffDestLine" background="#263238"/>
   <style name="DiffDestChar" background="#263238"/>
   <style name="LogChangeLine" foreground="#c00000" background="#263238"/>
+  <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
+  <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
+  <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
 </style-scheme>
