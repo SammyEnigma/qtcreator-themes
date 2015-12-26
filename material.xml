@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Material Theme">
+<style-scheme version="1.0" name="Material Theme (copy)">
   <style name="Text" foreground="#f8f8f2" background="#263238"/>
   <style name="Link" foreground="#f50057" background="#263238" italic="true"/>
   <style name="Selection" foreground="#263238" background="#4fc3f7"/>
@@ -11,7 +11,7 @@
   <style name="CurrentLine" background="#393939" bold="true"/>
   <style name="CurrentLineNumber" foreground="#7cb342" background="#263238"/>
   <style name="Occurrences" background="#2196f3"/>
-  <style name="Occurrences.Unused" foreground="#ffaa7f" background="#263238"/>
+  <style name="Occurrences.Unused" foreground="#ffaa7f" background="#263238" underlineStyle="DotLine"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#263238"/>
   <style name="Number" foreground="#ff5722" background="#263238"/>
   <style name="String" foreground="#4caf50" background="#263238"/>
