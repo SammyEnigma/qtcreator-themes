@@ -8,6 +8,7 @@
   <style name="SearchScope" foreground="#ff9100" background="#fafafa"/>
   <style name="Parentheses" foreground="#42a5f5" background="#fafafa" bold="true" italic="true" underlineStyle="SingleUnderline"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#f44336"/>
+  <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
   <style name="CurrentLine" background="#efebe9" bold="true"/>
   <style name="CurrentLineNumber" foreground="#7cb342" background="#fafafa"/>
   <style name="Occurrences" background="#b2ebf2"/>
@@ -15,8 +16,9 @@
   <style name="Occurrences.Rename" foreground="#000000" background="#fafafa"/>
   <style name="Number" foreground="#ff5722" background="#fafafa"/>
   <style name="String" foreground="#388e3c" background="#fafafa"/>
-  <style name="Type" foreground="#b71c1c" background="#fafafa"/>
+  <style name="Type" foreground="#3f51b5" background="#fafafa"/>
   <style name="Local" foreground="#8e24aa" background="#fafafa"/>
+  <style name="Global"/>
   <style name="Field" foreground="#e74c3c" background="#fafafa" italic="true"/>
   <style name="Static" foreground="#ff6f00" background="#fafafa"/>
   <style name="VirtualMethod" foreground="#607d8b" background="#fafafa" italic="true"/>
@@ -57,4 +59,5 @@
   <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
+  <style name="Declaration"/>
 </style-scheme>
