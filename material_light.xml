@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Material Theme Light (copy)">
+<style-scheme version="1.0" name="Material Theme Light">
   <style name="Text" foreground="#212121" background="#fafafa"/>
   <style name="Link" foreground="#0288d1" background="#fafafa" italic="true"/>
   <style name="Selection" foreground="#e1f5fe" background="#4fc3f7"/>
