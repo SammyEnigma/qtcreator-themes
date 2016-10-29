@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Material Theme Light">
+<style-scheme version="1.0" name="Material Theme Light (copy)">
   <style name="Text" foreground="#212121" background="#fafafa"/>
   <style name="Link" foreground="#0288d1" background="#fafafa" italic="true"/>
   <style name="Selection" foreground="#e1f5fe" background="#4fc3f7"/>
@@ -22,8 +22,8 @@
   <style name="Field" foreground="#e74c3c" background="#fafafa" italic="true"/>
   <style name="Static" foreground="#ff6f00" background="#fafafa"/>
   <style name="VirtualMethod" foreground="#607d8b" background="#fafafa" italic="true"/>
-  <style name="Function" foreground="#3e2723" background="#fafafa"/>
-  <style name="Keyword" foreground="#304ffe" background="#fafafa" italic="true"/>
+  <style name="Function" foreground="#2196f3" background="#fafafa"/>
+  <style name="Keyword" foreground="#2196f3" background="#fafafa" italic="true"/>
   <style name="PrimitiveType" foreground="#5e35b1" background="#fafafa"/>
   <style name="Operator" foreground="#dd2c00" background="#fafafa"/>
   <style name="Preprocessor" foreground="#ec407a" background="#fafafa" bold="true"/>
